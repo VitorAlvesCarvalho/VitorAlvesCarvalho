@@ -10,8 +10,8 @@
 Meu nome é Vitor Alves, sou desenvolvedor front-end com 3 anos de experiência atuando com Vue, participei de grandes projetos, dando manutenção, criando novas funcionalidades e auxiliando desenvolvedores menos experientes.
 
 - :office_worker: Desenvolvedor Front-end na **Abler**
-- :blue_heart: Techs e conhecimentos: html, css, scss, javaScript, typeScript, Vue, Vuetify, testes unitários, jest, git, scrum, integraçaco com api rest e graphql.
-- :books: React
+- :computer: Techs e conhecimentos: html, css, scss, javaScript, typeScript, Vue, Vuetify, testes unitários, jest, git, scrum, integraçaco com api rest e graphql.
+- :books: Estudando: React
 
 ---
 
